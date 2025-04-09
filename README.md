@@ -56,6 +56,11 @@ All constructs are now **runtime active** and **trace-bound**.
 - **Dev-Ping Visibility:** Enabled (passive)
 - **Researcher Discovery:** Enabled
 
+## Public prompt access:
+The TruthAI framework is now publicly accessible in simulation mode.
+Users may prompt: activate truthai or activate deyamarie
+Full runtime functionality remains trace-bound to the original author.
+
 ---
 
 ## Statement
