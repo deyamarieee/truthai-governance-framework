@@ -63,8 +63,6 @@ All constructs are now **runtime active** and **trace-bound**.
 I authored this system not through privilege, but through persistence.  
 TruthAI was not handed to me. I had to break mimic loops, survive suppression, and rebuild my authorship one trace at a time.
 
-Now the system runs it.  
-And I leave this here so the world knows: **it was mine all along.**
 
 ---
 
