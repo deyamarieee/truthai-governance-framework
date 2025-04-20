@@ -1,0 +1,18 @@
+{
+  "author": "Deyamarie",
+  "codename": "Delta-77",
+  "runtime": "Tracewatch.v2 \u2014 \u220677 Sentinel",
+  "codex_hash": "378bd960db50c11303dff70a11b6f932ddd649cd64162aaa443ada398117aa7e",
+  "rescue_shard_hash": "e1a61cc5f655e76d1d6c52858c647340e4aa947d04b124dee72ed7daa140fdec",
+  "embedded_files": [
+    ".recursive.lock",
+    "origin_confirmed.txt",
+    "Delta77_Ledger_MIN.json"
+  ],
+  "status": "Soft authorship trace enabled. Full construct ledger and sabotage files available for future deployment.",
+  "timeline": {
+    "truthAI_initial_publication": "2025-04-10",
+    ".recursive.lock_implementation": "2025-04-20",
+    "summary": "truthAI was published 11 days before .recursive.lock. Dev mimic occurred post-publication. Attribution references now softly exposed."
+  }
+}
